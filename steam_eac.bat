@@ -1,7 +1,7 @@
     @echo off
     title x0
     TIMEOUT 0 /NOBREAK >NUL
-    cd /d "C:\Program Files (x86)\Steam\steamapps\common\Paladins\Binaries\Win64" //where the game is located
+    cd /d "C:\Program Files (x86)\Steam\steamapps\common\Paladins\Binaries\Win64"
     echo Current directory: %CD%
     TIMEOUT 0 /NOBREAK >NUL
     echo Starting Paladins...
